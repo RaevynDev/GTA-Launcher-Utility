@@ -1,8 +1,6 @@
-# GTA Trilogy Launcher
+A Windows launcher and utility hub for the original Grand Theft Auto Trilogy, designed to bring game launching, save management, Discord Rich Presence, and future modding utilities together in one place.
 
-A Windows launcher and utility hub for the original Grand Theft Auto Trilogy, designed to bring game launching, save management, Discord Rich Presence, and modding utilities together in one place.
-
-The **GTA Trilogy Launcher** provides a central place to manage and launch supported games from the original trilogy. It includes **GTA Trilogy RPC**, the project's Discord Rich Presence application, built directly into the launcher so you can enjoy detailed Discord activity without needing to run the standalone RPC application separately.
+The **GTA Launcher Utility** provides a central place to manage and launch supported games from the original trilogy. It includes **GTA Trilogy RPC**, the project's Discord Rich Presence application, built directly into the launcher so you can enjoy detailed Discord activity without needing to run the standalone RPC application separately.
 
 The project is actively developed, with the goal of expanding the launcher into a more comprehensive utility for players of the original PC releases.
 
@@ -79,16 +77,16 @@ Individual features may have additional requirements depending on the game, its 
 
 ## Installation
 
-1. Visit the [GTA Trilogy Launcher Releases page](https://github.com/RaevynDev/GTA-Trilogy-Launcher/releases).
+1. Visit the [GTA Launcher Utility Releases page](https://github.com/RaevynDev/GTA-Launcher-Utility/releases).
 2. Download the latest available release.
 3. Extract the downloaded archive into a folder, if required by the release package.
-4. Launch the GTA Trilogy Launcher executable.
+4. Launch the GTA Launcher Utility executable.
 5. Allow the launcher to detect your game installations, and configure any settings as needed.
 6. Launch a supported game through the launcher and check your Discord profile to verify Rich Presence functionality.
 
 Refer to the notes accompanying each release for version-specific installation instructions and known limitations.
 
-## Versions and Releases
+## Versioning and Releases
 
 The launcher and GTA Trilogy RPC use **separate version numbers** because they are maintained and released as distinct components.
 
@@ -102,7 +100,7 @@ The launcher is under active development. Current functionality provides the fou
 
 Features may be incomplete, compatibility may vary between installations, and some planned functionality may not yet be available.
 
-Bug reports and actionable feedback are welcome through the repository's [Issues page](https://github.com/RaevynDev/GTA-Trilogy-Launcher/issues).
+Bug reports and actionable feedback are welcome through the [GTA Launcher Utility Issues page](https://github.com/RaevynDev/GTA-Launcher-Utility/issues).
 
 When reporting a problem, include the launcher version, affected game and edition, relevant installation details, and steps to reproduce the issue. Please avoid sharing personal information or private files in reports.
 
@@ -120,4 +118,4 @@ Copyright © 2026 RaevynDev. All rights reserved.
 
 This project is proprietary. No permission is granted to copy, modify, or redistribute its source code without the author's permission.
 
-GTA Trilogy Launcher is an unofficial fan-made project. It is not affiliated with, endorsed by, or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and its associated names and trademarks belong to their respective owners.
+GTA Launcher Utility is an unofficial fan-made project. It is not affiliated with, endorsed by, or sponsored by Rockstar Games or Take-Two Interactive. Grand Theft Auto and its associated names and trademarks belong to their respective owners.
