@@ -1,3 +1,5 @@
+# GTA Launcher Utility
+
 A Windows launcher and utility hub for the original Grand Theft Auto Trilogy, designed to bring game launching, save management, Discord Rich Presence, and future modding utilities together in one place.
 
 The **GTA Launcher Utility** provides a central place to manage and launch supported games from the original trilogy. It includes **GTA Trilogy RPC**, the project's Discord Rich Presence application, built directly into the launcher so you can enjoy detailed Discord activity without needing to run the standalone RPC application separately.
